@@ -1,6 +1,6 @@
 #include <stdio.h>
-**\ test code
- *kamal
-**\
+\* test oe kamal
+ * kamal
+*\
 int main(void)
-{
+
